@@ -1,0 +1,4 @@
+An Overview of Image Compression Approaches
+
+In transmission applications, such as broadcast television, remote sensing via satellite, aircraft, radar,  sonar,  teleconferencing,computer communications,  facsimile  transmission,  and multimedia systems, compression techniques are constrained by real time and on-line considerations that limit the size and complexity of the hardware.
+There are three main reasons why present multimedia systems require that data must be compressed: 1) large storage requirements of multimedia data, 2) relatively slow storage devices that do not allow playing multimedia data (especially video) in real-time, and 3) the present network bandwidth, which does not allow real-time video data transmission.
